@@ -1,0 +1,10 @@
+C:\Users\Root\source\repos\Base64\Base64\bin\Debug\Base64.exe.config
+C:\Users\Root\source\repos\Base64\Base64\bin\Debug\Base64.exe
+C:\Users\Root\source\repos\Base64\Base64\bin\Debug\Base64.pdb
+C:\Users\Root\source\repos\Base64\Base64\obj\Debug\Base64.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\Base64\Base64\obj\Debug\Base64.MainForm.resources
+C:\Users\Root\source\repos\Base64\Base64\obj\Debug\Base64.Properties.Resources.resources
+C:\Users\Root\source\repos\Base64\Base64\obj\Debug\Base64.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\Base64\Base64\obj\Debug\Base64.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\Base64\Base64\obj\Debug\Base64.exe
+C:\Users\Root\source\repos\Base64\Base64\obj\Debug\Base64.pdb
